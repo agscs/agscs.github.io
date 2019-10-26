@@ -5,22 +5,85 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="shortcut icon" href="assets/img/favicon.png">
-        <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
-        <!-- <script src="https://kit.fontawesome.com/5bb5de1e3d.js" crossorigin="anonymous"></script> -->
+        <link rel="icon" type="image/svg+xml" sizes="any" href="assets/img/favicon.svg">
+        <script src="https://kit.fontawesome.com/5bb5de1e3d.js" crossorigin="anonymous"></script>
         <!-- CSS -->
         <link rel="stylesheet" href="assets/css/uikit.min.css" />
+        <link rel="stylesheet" href="assets/css/style.css" />
         <!-- JS -->
-        <script src="assets/img/uikit.min.js"></script>
+        <script src="assets/js/uikit.min.js"></script>
     </head>
-    <body>
-      <div class="uk-height-large uk-background-cover uk-light uk-flex" uk-parallax="bgy: -200" style="background-image: url('assets/img/bg.jpg');">
-          <h1 class="uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-vertical">Headline</h1>
+    <body class="uk-light uk-background-secondary">
+<div class="uk-cover-background  " style="background:url(assets/img/bg.jpg)">
+  <div class="uk-container">
+    <nav class="uk-navbar-container uk-light uk-navbar-transparent " uk-navbar="mode: click">
+        <a href="https://dzdevs.com" class="uk-logo uk-navbar-item">
+          <i class="fas fa-star-and-crescent uk-margin-small-right" style="color: #FFFFFF;"></i>
+          DzDevs
+        </a>
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav">
+                <li class="uk-active"><a href="#">Home</a></li>
+                <li>
+                    <a href="#">Services</a>
+                    <div class="uk-navbar-dropdown">
+                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li class="uk-active"><a href="#">Active</a></li>
+                            <li><a href="#">Item</a></li>
+                            <li><a href="#">Item</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </div>
+    </nav>
+  </div>
+      <div class="tm-hero tm-hero-padding uk-block uk-block-large uk-flex uk-flex-middle uk-contrast">
+
+        <div class="uk-container uk-container-center">
+          <section class="uk-grid uk-grid-match" data-uk-grid-margin="">
+            <div class="uk-width-medium-1-1 uk-row-first">
+              <div class="uk-panel  uk-text-center ">
+                <h1 class="uk-heading-small uk-margin-large-bottom">Quality development for you.</h1>
+                <a class="uk-button uk-button-large" href="/workflow">Learn More</a>
+                <a class="uk-button uk-button-large" href="/hire">Hire Us</a>
+              </div>
+            </div>
+          </section>
+        </div>
       </div>
-      <div class="uk-height-large uk-background-cover uk-overflow-hidden uk-light uk-flex uk-flex-top" style="background-image: url('assets/img/bg.jpg');">
-          <div class="uk-width-1-2@m uk-text-center uk-margin-auto uk-margin-auto-vertical">
-              <h1 uk-parallax="opacity: 0,1; y: -100,0; scale: 2,1; viewport: 0.5;">Headline</h1>
-              <p uk-parallax="opacity: 0,1; y: 100,0; scale: 0.5,1; viewport: 0.5;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+</div>
+
+<div class="uk-container">
+      <div class="uk-child-width-1-3@m uk-grid-small uk-grid-match" uk-grid>
+          <div>
+              <div class="uk-card uk-card-body uk-light uk-gradient-phpkiller">
+                  <h3 class="uk-card-title">Default</h3>
+                  <h3 class="uk-card-title"><i class="far fa-heart"></i></h3>
+
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+          </div>
+          <div>
+              <div class="uk-card uk-card-body uk-light uk-gradient-phpkiller">
+                  <h3 class="uk-card-title">Primary</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
+          </div>
+          <div>
+              <div class="uk-card uk-card-body uk-light uk-gradient-phpkiller">
+                  <h3 class="uk-card-title">Secondary</h3>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              </div>
           </div>
       </div>
+</div>
+<span class="uk-in" style="color: #D21034;">Dz</span>
+<span class="uk-in" style="color: #007229;">Devs</span>
+
+<div style="height:800px"></div>
+
     </body>
 </html>
