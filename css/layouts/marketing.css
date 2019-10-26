@@ -3,7 +3,6 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
 /*
  * -- BASE STYLES --
  * Most of these are inherited from Base, but I want to change a few.
@@ -13,7 +12,6 @@ body {
     color: #7f8c8d;
     font-size: 13px;
 }
-
 h1,
 h2,
 h3,
@@ -23,12 +21,10 @@ h6,
 label {
     color: #34495e;
 }
-
 .pure-img-responsive {
     max-width: 100%;
     height: auto;
 }
-
 /*
  * -- LAYOUT STYLES --
  * These are some useful classes which I will need
@@ -49,7 +45,6 @@ label {
 .is-left {
     text-align: left;
 }
-
 /*
  * -- PURE FORM STYLES --
  * Style the form inputs and labels
