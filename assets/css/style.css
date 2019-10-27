@@ -1,3 +1,4 @@
+
 /* gradient */
 .uk-gradient-red        {	background-image: radial-gradient(circle farthest-corner at 12.3% 19.3%, #de6363 0, #9c1b26 100.2%) !important}
 .uk-gradient-pink       {	background-image: radial-gradient(circle farthest-corner at 12.3% 19.3%, #de63b2 0, #9c1b85 100.2%) !important}
@@ -20,8 +21,45 @@ img.emoji {
 	margin: 0 .05em 0 .1em;
 	vertical-align: -.3em
 }
+.php-box{
+    background: #333;
+		padding: 20px;
+		border-radius: 5px;
+}
+.php-box-title{
+    text-transform: uppercase;
+    font-size: .9rem;
+    letter-spacing: 2px;
+    color: #000;
+		font-weight: 700;
+		margin-top: 10px;
+}
+.php-box-body{
+    font-size: .8rem;
+}
+.php-box-img img{
+	width: auto;
+	height: 50px;
+	Overfow: hidden;
+	vertical-align: middle !important;
+	line-height: 50px
+}
+.php-box-img{
+	text-align: center;
+	width: auto;
+	Overfow: hidden;
+	vertical-align: middle !important;
+}
+.uk-cover-background{background-position:50% 50%;background-size:cover;background-repeat:no-repeat}
 
-
+.uk-logo-img{
+	width: auto;
+	height: 36px;
+}
+.uk-logo{
+	font-weight: 700;
+	font-family: "Agency Fb";
+}
 .uk-block {
 	position: relative;
 	box-sizing: border-box;

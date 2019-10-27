@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon_1_" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="65px" height="57px" viewBox="0 0 65 57" enable-background="new 0 0 65 57" xml:space="preserve">
+<g id="iMac_1_">
+	<g id="Shadow_3_" enable-background="new    ">
+		<defs>
+			<ellipse id="SVGID_1_" enable-background="new    " cx="33.26" cy="52.457" rx="15.953" ry="0.53"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  overflow="visible"/>
+		</clipPath>
+		
+			<image overflow="visible" clip-path="url(#SVGID_2_)" width="65" height="57" id="Shadow_xA0_Image_1_" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAA5CAIAAADm5NG+AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE5JREFUeNrszzENADAIADCYf4OE
+BynTAWkdNKsnlnuxn4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4PDncMX
+YABn7wMGJR4NTwAAAABJRU5ErkJggg==">
+		</image>
+	</g>
+	<g id="Device_3_">
+		<g id="Stand">
+			<g>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#E8EBF0" points="41.23,51.39 39.34,44.853 26.644,44.853 24.754,51.39 
+					22.448,51.693 22.448,52.297 43.536,52.297 43.536,51.693 				"/>
+			</g>
+		</g>
+		<g id="Shadow_2_" opacity="0.102">
+			<g>
+				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#474E5D" points="39.34,44.853 26.644,44.853 26.235,46.268 
+					39.749,46.268 				"/>
+			</g>
+		</g>
+		<g id="iMac_base">
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#474E5D" d="M63.571,1H2.418C1.635,1,1,1.633,1,2.414v36.603h63.989V2.414
+					C64.989,1.633,64.354,1,63.571,1z"/>
+			</g>
+		</g>
+		<g id="iMac_bottom_base">
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#E8EBF0" d="M1,39.018v4.421c0,0.781,0.635,1.414,1.418,1.414h61.153
+					c0.783,0,1.418-0.633,1.418-1.414v-4.421H1z"/>
+			</g>
+		</g>
+		<g id="Apple">
+			<g>
+				<circle fill-rule="evenodd" clip-rule="evenodd" fill="#474E5D" cx="32.994" cy="41.668" r="1.263"/>
+			</g>
+		</g>
+		<g id="Screen">
+			<g>
+				<rect x="3.481" y="3.475" fill-rule="evenodd" clip-rule="evenodd" fill="#E74C3C" width="59.026" height="33.067"/>
+			</g>
+		</g>
+		<g id="Camera">
+			<g>
+				<circle fill-rule="evenodd" clip-rule="evenodd" fill="#A5ADBD" cx="33.083" cy="2.233" r="0.302"/>
+			</g>
+		</g>
+	</g>
+	<g id="Light_xA0_Image_3_" opacity="0.102">
+		
+			<image overflow="visible" width="39" height="39" id="Light_xA0_Image_2_" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAZJJREFUeNrs2N9Hg1Ecx/EjLWXs
+IkqSSaMuuumiiyKRKLEYSYqUokRFkiSi/ulqqz29v3risWo7z3N+XuxwfNgPXj7f79imVP/kO0mS
+zEoORAh7IY6iwwF7Ju647ahwwJ6IG26L+ymPDUYCeySuuc30oThwwB6Iy7QxFQ0O2D1xzn3veCos
+DtgtcZoZZfZ8BMMBk8U//qOxsM0BuyIOuG9dXtbyjgN2Qex1aSxMc8DOiJ0ejfnfOWAnxDb3VfMt
+fsYK7JDY0mzMX3PA9omNnDD3zQHbJdZyjNJPc8AaxEpBmLvmgNWJJQOYGxywTWKxwI65HSuwdWLB
+sDH7zQFbJeYtwezhgC0TcxZhdnDAZL9qlmHmOwdM9mvawvLbbQ6Y7NeUI1jx5tIfvBMORmnWHLAZ
+YsxhY8WaA1YlRjW+KNo4+l82gU0SFQ+N5RsrsHGi7Kkx/eaAyRhH/vn5Fm7ngMkYhzw31rs5YDLG
+UsdfBOFxwIbV979PTRXu/MYBK2U/LdHggElbyc8yBj5t1T8G50uAAQA3Hb+geRyT1QAAAABJRU5E
+rkJggg==" transform="matrix(1 0 0 1 25 2)">
+		</image>
+	</g>
+</g>
+<g id="ico_1_">
+	<g id="Ellipse_32_copy">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M33,8.344c-6.564,0-11.886,5.343-11.886,11.935
+				c0,6.591,5.322,11.934,11.886,11.934c6.564,0,11.886-5.343,11.886-11.934C44.886,13.687,39.564,8.344,33,8.344z M33,31.664
+				c-6.262,0-11.339-5.097-11.339-11.385S26.737,8.893,33,8.893c6.262,0,11.339,5.098,11.339,11.386S39.262,31.664,33,31.664z"/>
+		</g>
+	</g>
+	<g id="Shape_414_copy">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M33.168,21.114l-2.854,8.324
+				c0.852,0.251,1.752,0.387,2.687,0.387c1.106,0,2.169-0.192,3.157-0.542c-0.025-0.041-0.049-0.083-0.068-0.13L33.168,21.114z
+				 M23.492,20.279c0,3.777,2.187,7.045,5.359,8.591l-4.536-12.477C23.787,17.58,23.492,18.894,23.492,20.279z M39.419,19.796
+				c0-1.18-0.423-1.998-0.784-2.633c-0.482-0.787-0.933-1.452-0.933-2.24c0-0.878,0.661-1.694,1.597-1.694
+				c0.04,0,0.082,0.005,0.122,0.008c-1.691-1.556-3.945-2.507-6.42-2.507c-3.323,0-6.245,1.712-7.944,4.304
+				c0.224,0.007,0.433,0.012,0.611,0.012c0.995,0,2.535-0.123,2.535-0.123c0.511-0.029,0.572,0.726,0.06,0.788
+				c0,0-0.514,0.06-1.088,0.091l3.464,10.341l2.081-6.265l-1.482-4.075c-0.512-0.031-0.997-0.091-0.997-0.091
+				c-0.513-0.031-0.452-0.816,0.061-0.788c0,0,1.57,0.123,2.504,0.123c0.994,0,2.535-0.123,2.535-0.123
+				c0.511-0.029,0.572,0.726,0.059,0.788c0,0-0.514,0.06-1.088,0.091l3.437,10.262l0.949-3.181
+				C39.177,21.642,39.419,20.614,39.419,19.796z M41.343,15.697c0.042,0.305,0.066,0.631,0.066,0.983
+				c0,0.968-0.181,2.057-0.724,3.419l-2.903,8.431c2.826-1.654,4.726-4.729,4.726-8.251C42.508,18.618,42.086,17.058,41.343,15.697z
+				"/>
+		</g>
+	</g>
+</g>
+<g id="iPhone_1_">
+	<g id="Shadow_5_" enable-background="new    ">
+		<defs>
+			<ellipse id="SVGID_3_" enable-background="new    " cx="52.026" cy="56.149" rx="9.413" ry="0.851"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  overflow="visible"/>
+		</clipPath>
+		
+			<image overflow="visible" clip-path="url(#SVGID_4_)" width="65" height="57" id="Shadow_xA0_Image" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEEAAAA5CAIAAADm5NG+AAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE5JREFUeNrszzENADAIADCYf4OE
+BynTAWkdNKsnlnuxn4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4PDncMX
+YABn7wMGJR4NTwAAAABJRU5ErkJggg==">
+		</image>
+	</g>
+	<g id="Device_2_">
+		<g id="iPhone_5_base">
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#474E5D" d="M57.346,20.987H46.979c-1.507,0-2.728,1.269-2.728,2.836
+					v29.491c0,1.566,1.221,2.836,2.728,2.836h10.368c1.507,0,2.728-1.269,2.728-2.836V23.822
+					C60.075,22.256,58.853,20.987,57.346,20.987z"/>
+			</g>
+		</g>
+		<g id="screen">
+			<g>
+				<rect x="45.342" y="26.091" fill-rule="evenodd" clip-rule="evenodd" fill="#E74C3C" width="13.642" height="24.954"/>
+			</g>
+		</g>
+		<g id="Homebutton">
+			<g>
+				<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="52.163" cy="53.59" rx="1.131" ry="1.175"/>
+			</g>
+		</g>
+		<g id="Speaker__x2B__cam">
+			<g>
+				<path fill-rule="evenodd" clip-rule="evenodd" fill="#A5ADBD" d="M49.98,23.539c-0.151,0-0.273,0.127-0.273,0.284
+					c0,0.157,0.122,0.284,0.273,0.284s0.273-0.127,0.273-0.284C50.253,23.666,50.13,23.539,49.98,23.539z M54.073,23.539h-2.728
+					c-0.151,0-0.273,0.127-0.273,0.284c0,0.157,0.122,0.284,0.273,0.284h2.728c0.151,0,0.273-0.127,0.273-0.284
+					C54.345,23.666,54.223,23.539,54.073,23.539z"/>
+			</g>
+		</g>
+	</g>
+	<g id="Light_xA0_Image_1_" opacity="0.102">
+		
+			<image overflow="visible" width="17" height="32" id="Light_xA0_Image" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAgCAYAAAD0S5PyAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAARtJREFUeNrM1T1rwkAcgHFPBYcW
+fKOCQ6kFRUT7JfwIzp37AVy7ugpOjh0dnIR+NvXOaNLnIIqmib2XDA08/OGIP+4gicVCDlfR58dR
+FFW9EIARY+6MAPQY31R3QgA6jA3V6GiNALQZa2qSokCvly2AJ8aKWiTj5YMxAtBgfFH7CjBHAB4Z
+S3pOAAWj4wA8MBb0QvuUW9RdBKDCmNEr7TJuy0YA9Ponde8A2UgMTKn/B5COAOjn5oMGBsBvBEAw
+3mloCNwiMTAh/VJtLR5ieb2TMb1Z7CD1OC3LHaQi0hGRSWTnuxOVByL/DaLyQsq+iP5ClRyQIIkI
+B+SQRKI8kND3OMoROV0QIUTA5yB0+EcMbz5KQKezbHv9CDAAxEd6FKmwuyAAAAAASUVORK5CYII=" transform="matrix(1 0 0 1 43 25)">
+		</image>
+	</g>
+</g>
+<g id="ico_copy_1_">
+	<g id="Ellipse_32_copy_1_">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M52.2,34.049c-2.525,0-4.571,2.055-4.571,4.59
+				c0,2.535,2.047,4.59,4.571,4.59s4.571-2.055,4.571-4.59C56.771,36.104,54.724,34.049,52.2,34.049z M52.2,43.018
+				c-2.409,0-4.361-1.961-4.361-4.379c0-2.419,1.953-4.379,4.361-4.379c2.409,0,4.361,1.96,4.361,4.379
+				C56.561,41.057,54.608,43.018,52.2,43.018z"/>
+		</g>
+	</g>
+	<g id="Shape_414_copy_1_">
+		<g>
+			<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M52.264,38.96l-1.098,3.202
+				c0.327,0.097,0.674,0.149,1.033,0.149c0.425,0,0.834-0.074,1.214-0.209c-0.01-0.016-0.019-0.032-0.026-0.05L52.264,38.96z
+				 M48.543,38.639c0,1.453,0.841,2.71,2.061,3.304l-1.745-4.799C48.657,37.601,48.543,38.106,48.543,38.639z M55.409,36.877
+				c0.016,0.118,0.025,0.243,0.025,0.378c0,0.372-0.07,0.791-0.278,1.315l-1.117,3.242c1.087-0.636,1.818-1.819,1.818-3.173
+				C55.857,38,55.694,37.4,55.409,36.877z M54.669,38.453c0-0.454-0.163-0.768-0.302-1.013c-0.185-0.303-0.359-0.559-0.359-0.862
+				c0-0.338,0.254-0.652,0.614-0.652c0.016,0,0.031,0.002,0.047,0.003c-0.65-0.599-1.517-0.965-2.469-0.965
+				c-1.278,0-2.402,0.659-3.055,1.656c0.086,0.003,0.166,0.005,0.235,0.005c0.383,0,0.975-0.047,0.975-0.047
+				c0.197-0.011,0.22,0.279,0.023,0.303c0,0-0.198,0.023-0.419,0.035l1.332,3.977l0.8-2.41l-0.57-1.567
+				c-0.197-0.012-0.383-0.035-0.383-0.035c-0.197-0.012-0.174-0.314,0.023-0.303c0,0,0.604,0.047,0.963,0.047
+				c0.382,0,0.975-0.047,0.975-0.047c0.197-0.011,0.22,0.279,0.023,0.303c0,0-0.198,0.023-0.418,0.035l1.322,3.947l0.365-1.223
+				C54.576,39.163,54.669,38.768,54.669,38.453z"/>
+		</g>
+	</g>
+</g>
+</svg>
