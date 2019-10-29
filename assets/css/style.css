@@ -21,50 +21,63 @@ img.emoji {
 	margin: 0 .05em 0 .1em;
 	vertical-align: -.3em
 }
-.php-box{
-    background: #333;
-		padding: 20px;
-		border-radius: 5px;
+
+.php-box {
+	background: #333;
+	padding: 20px;
+	border-radius: 5px;
 }
-.php-box-title{
-    text-transform: uppercase;
-    font-size: .9rem;
-    letter-spacing: 2px;
-    color: #000;
-		font-weight: 700;
-		margin-top: 10px;
+
+.php-box-title {
+	text-transform: uppercase;
+	font-size: .9rem;
+	letter-spacing: 2px;
+	color: #000;
+	font-weight: 700;
+	margin-top: 10px;
 }
-.php-box-body{
-    font-size: .8rem;
+
+.php-box-body {
+	font-size: .8rem;
 }
-.php-box-img img{
+
+.php-box-img img {
 	width: auto;
 	height: 50px;
 	Overfow: hidden;
 	vertical-align: middle !important;
 	line-height: 50px
 }
-.php-box-img{
+
+.php-box-img {
 	text-align: center;
 	width: auto;
 	Overfow: hidden;
 	vertical-align: middle !important;
 }
-.uk-cover-background{background-position:50% 50%;background-size:cover;background-repeat:no-repeat}
+
+.uk-cover-background {
+	background-position: 50% 50%;
+	background-size: cover;
+	background-repeat: no-repeat
+}
+
 .uk-navbar-container:not(.uk-navbar-transparent),
 .uk-light .uk-navbar-nav>li>a,
-.uk-navbar-container:not(.uk-navbar-transparent) .uk-logo{
+.uk-navbar-container:not(.uk-navbar-transparent) .uk-logo {
 	color: #666 !important
 }
 
-.uk-logo-img{
+.uk-logo-img {
 	width: auto;
 	height: 36px;
 }
-.uk-logo{
+
+.uk-logo {
 	font-weight: 700;
 	font-family: "Agency Fb";
 }
+
 .uk-block {
 	position: relative;
 	box-sizing: border-box;
@@ -142,66 +155,94 @@ img.emoji {
 	padding-top: 0
 }
 
-
-.uk-h1, .uk-h2, .uk-h3, .uk-h4, .uk-h5, .uk-h6, .uk-heading-2xlarge, .uk-heading-large, .uk-heading-medium, .uk-heading-small, .uk-heading-xlarge, h1, h2, h3, h4, h5, h6 {
- font-weight: 300;
+.uk-h1,
+.uk-h2,
+.uk-h3,
+.uk-h4,
+.uk-h5,
+.uk-h6,
+.uk-heading-2xlarge,
+.uk-heading-large,
+.uk-heading-medium,
+.uk-heading-small,
+.uk-heading-xlarge,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 300;
 }
 
-.uk-contrast .uk-button:hover:not(.uk-button-primary), .uk-contrast .uk-button:focus:not(.uk-button-primary) {
-    border-color: rgba(255,255,255,.7);
+.uk-contrast .uk-button:hover:not(.uk-button-primary),
+.uk-contrast .uk-button:focus:not(.uk-button-primary) {
+	border-color: rgba(255, 255, 255, .7);
 }
-.uk-contrast .uk-button:active, .uk-contrast .uk-button.uk-active {
-    background-color: #fff;
-    color: #525255;
+
+.uk-contrast .uk-button:active,
+.uk-contrast .uk-button.uk-active {
+	background-color: #fff;
+	color: #525255;
 }
-.uk-contrast .uk-button:hover, .uk-contrast .uk-button:focus {
-    background-color: #fff;
-    color: #525255;
+
+.uk-contrast .uk-button:hover,
+.uk-contrast .uk-button:focus {
+	background-color: #fff;
+	color: #525255;
 }
+
 .uk-contrast .uk-button:not(.uk-button-primary) {
-    border-color: #fff;
+	border-color: #fff;
 }
+
 .uk-contrast .uk-button {
-    color: #fff;
-    background: transparent;
+	color: #fff;
+	background: transparent;
 }
+
 .uk-button {
-    -webkit-appearance: none;
-    margin: 0;
-    border: none;
-    overflow: visible;
-    font: inherit;
-    color: #adadad;
-    text-transform: none;
-    display: inline-block;
-    box-sizing: border-box;
-    padding: 0 25px;
-    background: 0 0;
-    vertical-align: middle;
-    line-height: 40px;
-    min-height: 42px;
-    font-size: 14px;
-    text-decoration: none;
-    text-align: center;
-    border: 1px solid #c7c7c7;
-    -webkit-transition: all .2s ease-in-out;
-    transition: all .2s ease-in-out;
+	-webkit-appearance: none;
+	margin: 0;
+	border: none;
+	overflow: visible;
+	font: inherit;
+	color: #adadad;
+	text-transform: none;
+	display: inline-block;
+	box-sizing: border-box;
+	padding: 0 25px;
+	background: 0 0;
+	vertical-align: middle;
+	line-height: 40px;
+	min-height: 42px;
+	font-size: 14px;
+	text-decoration: none;
+	text-align: center;
+	border: 1px solid #c7c7c7;
+	-webkit-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
 }
-.uk-button:active, .uk-button.uk-active {
-    background-color: transparent;
-    color: #888;
-    border-color: #a2a2a2;
+
+.uk-button:active,
+.uk-button.uk-active {
+	background-color: transparent;
+	color: #888;
+	border-color: #a2a2a2;
 }
-.uk-button:hover, .uk-button:focus {
-    background-color: transparent;
-    color: #888;
-    outline: none;
-    text-decoration: none;
-    border-color: #a2a2a2;
+
+.uk-button:hover,
+.uk-button:focus {
+	background-color: transparent;
+	color: #888;
+	outline: none;
+	text-decoration: none;
+	border-color: #a2a2a2;
 }
+
 .uk-button-large {
-    min-height: 55px;
-    padding: 0 35px;
-    line-height: 53px;
-    font-size: 18px;
+	min-height: 55px;
+	padding: 0 35px;
+	line-height: 53px;
+	font-size: 18px;
 }
