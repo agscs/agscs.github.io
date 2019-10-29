@@ -51,6 +51,11 @@ img.emoji {
 	vertical-align: middle !important;
 }
 .uk-cover-background{background-position:50% 50%;background-size:cover;background-repeat:no-repeat}
+.uk-navbar-container:not(.uk-navbar-transparent),
+.uk-light .uk-navbar-nav>li>a,
+.uk-navbar-container:not(.uk-navbar-transparent) .uk-logo{
+	color: #666 !important
+}
 
 .uk-logo-img{
 	width: auto;

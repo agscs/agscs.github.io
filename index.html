@@ -5,9 +5,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="shortcut icon" href="assets/img/favicon.png">
-        <link rel="icon" type="image/svg+xml" sizes="any" href="assets/img/favicon.svg">
-        <script src="https://kit.fontawesome.com/5bb5de1e3d.js" crossorigin="anonymous"></script>
-        <!-- CSS -->
+
+        <!-- CSS  <script src="https://kit.fontawesome.com/5bb5de1e3d.js" crossorigin="anonymous"></script> -->
         <link rel="stylesheet" href="assets/css/uikit.min.css" />
         <link rel="stylesheet" href="assets/css/style.css" />
         <!-- JS -->
@@ -16,8 +15,9 @@
     <body class="uk-light uk-background-secondary">
 
 <div class="uk-cover-background uk-margin-large-bottom" style="background-image:url(assets/img/bg.jpg)">
-  <div class="uk-container">
-    <nav class="uk-navbar-container uk-light uk-navbar-transparent" uk-navbar="mode: click">
+
+<div uk-sticky="animation: uk-animation-slide-top; sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky uk-dark; cls-inactive: uk-navbar-transparent uk-light; top: 200">
+      <nav class="uk-navbar-container" uk-navbar="mode: click" >
         <a href="https://dzdevs.com" class="uk-logo uk-navbar-item">
           <img src="assets/img/logo.svg" class="uk-logo-img uk-margin-small-right">
           DzDevs
@@ -40,14 +40,16 @@
             </ul>
         </div>
     </nav>
-  </div>
+
+</div>
       <div class="tm-hero tm-hero-padding uk-block uk-block-large uk-flex uk-flex-middle uk-contrast">
 
         <div class="uk-container uk-container-center">
           <section class="uk-grid uk-grid-match" data-uk-grid-margin="">
             <div class="uk-width-medium-1-1 uk-row-first">
-              <div class="uk-panel  uk-text-center ">
-                <h1 class="uk-heading-small uk-margin-large-bottom">Quality development for you.</h1>
+              <div class="uk-panel uk-text-center">
+                <h1 class="uk-heading-small uk-margin-small">Make your dream a reality</h1>
+                <p class="uk-margin-medium-bottom">Get in touch with developers and designers to build your project</p>
                 <a class="uk-button uk-button-large" href="/workflow">Learn More</a>
                 <a class="uk-button uk-button-large" href="/hire">Hire Us</a>
               </div>
@@ -55,9 +57,11 @@
           </section>
         </div>
       </div>
-</div>
+    </div>
 
-<div class="uk-container">
+    <div class="uk-container">
+      <h1 class="uk-margin-small uk-text-center">Services</h1>
+      <p class="uk-margin-medium-bottom uk-text-center">Are you looking for a web developer or designer to build your website project.</p>
       <div class="uk-grid-small uk-child-width-expand@s uk-grid-match uk-grid-item-match" uk-grid>
           <div>
               <div class="php-box uk-dark">
@@ -90,11 +94,15 @@
           <div>
               <div class="php-box uk-dark">
                   <div class="php-box-img"><img src="assets/img/services/icon2.svg"></div>
-                  <h1 class="php-box-title">Modifications</h1>
-                  <p class="php-box-body">In need some modifications or need to scare away bugs? We will help you out to make sure your website is up and running perfectly again.</p>
+                  <h1 class="php-box-title">SEO Friendly</h1>
+                  <p class="php-box-body">Our code is built to achieve optimal search engine optimization, and thus more traffic.</p>
               </div>
           </div>
       </div>
 </div>
+
+
+
+<div style="height: 800px;"></div>
     </body>
 </html>
