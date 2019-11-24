@@ -246,3 +246,6 @@ h6 {
 	line-height: 53px;
 	font-size: 18px;
 }
+input,textarea:focus {
+	border-color: #383838
+}
