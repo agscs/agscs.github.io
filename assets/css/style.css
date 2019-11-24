@@ -249,3 +249,12 @@ h6 {
 input,textarea:focus {
 	border-color: #383838
 }
+input,select,textarea {
+	background: #252525;
+	border: 2px solid var(--bg30);
+	font-size: var(--font-size2);
+	color: #a3a3a3;
+	padding: 6px 9px;
+	border-radius: 3px;
+	outline:none;
+}
