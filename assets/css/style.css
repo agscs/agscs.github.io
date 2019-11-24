@@ -292,3 +292,11 @@ legend {
 .vertical-middle {vertical-align: middle !important;}
 .display-block {display: block;}
 .line-32 {line-height: 32px;}
+.text-left {text-align: left;}
+.small-text {font-size: var(--font-size2);}
+.bottom-top{border-radius: 3px 3px 0 0;}
+.bottom-round{border-radius: 0 0 3px 3px;}
+.p-0{padding:0 !important;}
+.hidden{
+	display:hidden;
+}
