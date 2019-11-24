@@ -258,3 +258,8 @@ input,select,textarea {
 	border-radius: 3px;
 	outline:none;
 }
+
+textarea {
+	width: 100%;
+    max-width: 100%;
+}
