@@ -282,3 +282,9 @@ legend {
 .space-bottom-5{margin-bottom: 5px !important;}
 .space-bottom-10{margin-bottom: 10px !important;}
 .space-bottom-20{margin-bottom: 20px !important;}
+
+.right {float: right !important;}
+.left {float: left !important;}
+.flex-left {float: initial;}
+.flex-right {float: initial;}
+.bold{font-weight:700;}
