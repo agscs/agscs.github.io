@@ -268,3 +268,17 @@ fieldset {
 	border: 1px dashed var(--bg40);
 	padding: 10px
 }
+
+
+legend {
+	font-size: 14px;
+	color: var(--red)
+}
+
+
+
+.space-top-5{margin-top: 5px !important;}
+.space-top-10{margin-top: 10px !important;}
+.space-bottom-5{margin-bottom: 5px !important;}
+.space-bottom-10{margin-bottom: 10px !important;}
+.space-bottom-20{margin-bottom: 20px !important;}
